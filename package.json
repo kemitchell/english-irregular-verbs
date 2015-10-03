@@ -4,5 +4,11 @@
   "description": "list of English irregular verbs",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "repository": "kemitchell/english-irregular-verbs.json",
-  "license": "CC0-1.0"
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "tv4": "^1.2.7"
+  },
+  "scripts": {
+    "test": "node validate.js"
+  }
 }
