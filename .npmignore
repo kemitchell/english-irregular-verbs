@@ -1,2 +1,4 @@
 validate.js
 schema.json
+.travis.yml
+.npmignore
