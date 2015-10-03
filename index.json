@@ -1,0 +1,403 @@
+[
+  {
+    "infinitive": "say",
+    "past": "said",
+    "participles": [
+      "said"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "make",
+    "past": "made",
+    "participles": [
+      "made"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "go",
+    "past": "went",
+    "participles": [
+      "gone"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "take",
+    "past": "took",
+    "participles": [
+      "taken"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "come",
+    "past": "came",
+    "participles": [
+      "come"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "see",
+    "past": "saw",
+    "participles": [
+      "seen"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "know",
+    "past": "knew",
+    "participles": [
+      "known"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "get",
+    "past": "got",
+    "participles": [
+      "got",
+      "gotten"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "give",
+    "past": "gave",
+    "participles": [
+      "given"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "find",
+    "past": "found",
+    "participles": [
+      "found"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "think",
+    "past": "thought",
+    "participles": [
+      "thought"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "tell",
+    "past": "told",
+    "participles": [
+      "told"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "become",
+    "past": "became",
+    "participles": [
+      "become"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "show",
+    "past": "showed",
+    "participles": [
+      "shown"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "leave",
+    "past": "left",
+    "participles": [
+      "left"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "feel",
+    "past": "felt",
+    "participles": [
+      "felt"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "put",
+    "past": "put",
+    "participles": [
+      "put"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "bring",
+    "past": "brought",
+    "participles": [
+      "brought"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "begin",
+    "past": "began",
+    "participles": [
+      "begun"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "keep",
+    "past": "kept",
+    "participles": [
+      "kept"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "hold",
+    "past": "held",
+    "participles": [
+      "held"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "write",
+    "past": "wrote",
+    "participles": [
+      "written"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "stand",
+    "past": "stood",
+    "participles": [
+      "stood"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "hear",
+    "past": "heard",
+    "participles": [
+      "heard"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "let",
+    "past": "let",
+    "participles": [
+      "let"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "mean",
+    "past": "meant",
+    "participles": [
+      "meant"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "set",
+    "past": "set",
+    "participles": [
+      "set"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "meet",
+    "past": "met",
+    "participles": [
+      "met"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "run",
+    "past": "ran",
+    "participles": [
+      "run"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "pay",
+    "past": "paid",
+    "participles": [
+      "paid"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "sit",
+    "past": "sat",
+    "participles": [
+      "sat"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "speak",
+    "past": "spoke",
+    "participles": [
+      "spoken"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "lie",
+    "past": "lay",
+    "participles": [
+      "lain"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "lead",
+    "past": "led",
+    "participles": [
+      "led"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "read",
+    "past": "read",
+    "participles": [
+      "read"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "grow",
+    "past": "grew",
+    "participles": [
+      "grown"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "lose",
+    "past": "lost",
+    "participles": [
+      "lost"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "fall",
+    "past": "fell",
+    "participles": [
+      "fallen"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "send",
+    "past": "sent",
+    "participles": [
+      "sent"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "build",
+    "past": "built",
+    "participles": [
+      "built"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "understand",
+    "past": "understood",
+    "participles": [
+      "understood"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "draw",
+    "past": "drew",
+    "participles": [
+      "drawn"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "break",
+    "past": "broke",
+    "participles": [
+      "broken"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "spend",
+    "past": "spent",
+    "participles": [
+      "spent"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "cut",
+    "past": "cut",
+    "participles": [
+      "cut"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "rise",
+    "past": "rose",
+    "participles": [
+      "risen"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "drive",
+    "past": "drove",
+    "participles": [
+      "driven"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "buy",
+    "past": "bought",
+    "participles": [
+      "bought"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "wear",
+    "past": "wore",
+    "participles": [
+      "worn"
+    ],
+    "frequency": "high"
+  },
+  {
+    "infinitive": "choose",
+    "past": "chose",
+    "participles": [
+      "chosen"
+    ],
+    "frequency": "high"
+  }
+]
