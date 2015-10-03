@@ -1,21 +1,20 @@
-{ "type": "array",
-  "minItems": 1,
-  "items": {
-    "type": "object",
-    "properties": {
-      "infinitive": {
-        "type": "string",
-        "minLength": 1 },
-      "past": {
-        "type": "string",
-        "minLength": 1 },
-      "frequency": {
-        "enum": [ "high", "medium", "low" ] },
-      "participles": {
-        "type": "array",
-        "minItems": 1,
-        "items": {
+{ "type": "object",
+  "minProperties": 1,
+  "patternProperties": {
+    "": {
+      "type": "object",
+      "properties": {
+        "participles": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1 } },
+        "past": {
           "type": "string",
-          "minLength": 1 } } },
-    "required": [ "infinitive", "past", "participles", "frequency" ],
-    "additionalProperties": false } }
+          "minLength": 1 },
+        "frequency": {
+          "enum": [ "high", "medium", "low" ] } },
+      "required": [ "past", "participles", "frequency" ],
+      "additionalProperties": false } },
+  "additionalProperties": false }
