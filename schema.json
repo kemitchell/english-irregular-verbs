@@ -17,5 +17,5 @@
         "items": {
           "type": "string",
           "minLength": 1 } } },
-    "rqeuired": [ "infinitive", "past", "participles" ],
+    "required": [ "infinitive", "past", "participles", "frequency" ],
     "additionalProperties": false } }
